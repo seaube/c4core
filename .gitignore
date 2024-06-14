@@ -32,3 +32,5 @@ compile_commands.json
 .github/vagrant/.vagrant
 .github/vagrant/macos/.vagrant
 src_singleheader/
+
+bazel-*
